@@ -3,6 +3,6 @@ This code is a backend proxy to read fintual api, it works with [FintualApiFront
 
 
 
-- to install requirements: pip install -r requirements.txt
+- to install requirements: `pip install -r requirements.txt`
 - to run: `py main.py`
 - to test api: `py test.py`
