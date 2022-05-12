@@ -1,5 +1,5 @@
 # Readme
-This code is a backend proxy to read fintual api, it works with FRONT REPO.
+This code is a backend proxy to read fintual api, it works with [FintualApiFrontend](https://github.com/nelsonjerezv/FintualApiFrontend).
 
 
 
